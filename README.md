@@ -4,8 +4,8 @@
 <h3>i am learning</h3>
 <ul>
   <li>Html</li>
-  <li>�css</li>
-  <li>�Javascript</li>
+  <li>css</li>
+  <li>Javascript</li>
 </ul>
 <h3>Contact me</h3>
 <ul>
