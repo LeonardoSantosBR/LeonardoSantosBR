@@ -1,11 +1,15 @@
 <h1>About me</h2>
-<p>😃Hey!😃 my name is Leonardo Santos,19 years old, currently living in Brazil.</p>
+<p>😃Hey!😃 my name is Leonardo Santos,19 years old, currently living in Brazil. Searching my first oportunity in the world of programming</p>
 <p>I found out that I want to be a developer in the year 2021 and since then I'm on the way to acquiring knowledge. I'm a computer science student at ESTÁCIO in Rio de janeiro.</p>
-<h3>i am learning</h3>
+<h3>My skills:</h3>
 <div>
     <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
     <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<h3>i am learning my first framework:</h3>
+<div>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 <h3>Contact me</h3>
 <div>
