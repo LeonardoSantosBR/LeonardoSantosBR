@@ -1,5 +1,5 @@
 <h1>About me</h2>
-<p>😃Hey!😃 my name is Leonardo Santos,19 years old, currently living in Brazil. Searching my first oportunity in the world of programming</p>
+<p>😃Hey!😃 my name is Leonardo Santos,21 years old, currently living in Brazil</p>
 <p>I found out that I want to be a developer in the year 2021 and since then I'm on the way to acquiring knowledge. I'm a computer science student at ESTÁCIO in Rio de janeiro.</p>
 <h3>My skills:</h3>
 <div>
