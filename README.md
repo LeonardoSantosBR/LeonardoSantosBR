@@ -3,9 +3,9 @@
 <p>I found out that I want to be a developer in the year 2021 and since then I'm on the way to acquiring knowledge. I'm a computer science student at ESTÁCIO in Rio de janeiro.</p>
 <h3>My skills:</h3>
 <div>
-    <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-    <img height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+          
 </div>
 <h3>i'm specializing in</h3>
 <div>
