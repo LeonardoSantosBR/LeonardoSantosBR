@@ -1,5 +1,5 @@
 <h1>About me</h2>
-<p>😃Hey!😃 my name is Leonardo Santos, 22 years old, currently living in Brazil</p>
+<p>😃Hey!😃 my name is Leonardo Santos, 23 years old, currently living in Brazil</p>
 <p>I found out that I want to be a developer in the year 2021 and since then I'm on the way to acquiring knowledge. I'm a computer science student at ESTÁCIO in Rio de janeiro.</p>
 <p>I have 3 years of experience working with restfull API constructions using nestjs, typescript, javascript and studying relational databases like MySql, I currently have 2 goals like working fullstack, I have been delving into understanding React applications and I have been studying c++ for personal studies.</p>
 <h3>My skills:</h3>
