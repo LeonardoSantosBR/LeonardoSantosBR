@@ -15,21 +15,21 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**`languages ​​and technologies`**
+**`Languages ​​and technologies`**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,git,docker,github,nodejs,react,tailwind&perline=14" />
   </a>
 </p>
 
-**`databases and orms`**
+**`Databases and Orm`**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prisma,mongodb,mysql&perline=14" />
   </a>
 </p>
 
-**`i'm specializing in`**
+**`I'm specializing in`**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,py&perline=14" />
