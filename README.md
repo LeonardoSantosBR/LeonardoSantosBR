@@ -57,7 +57,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=prisma,mongodb,mysql&perline=14"
+      src="https://skillicons.dev/icons?i=prisma,postgres,mysql&perline=3"
     />
   </a>
 </p>
