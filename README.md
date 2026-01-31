@@ -1,43 +1,13 @@
 ## 👨‍💻 Fullstack Developer
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <p>😃 Hey! My name is <strong>Leonardo Santos</strong>, 23 years old, currently living in Brazil.</p>
-      <p>
-        I discovered that I wanted to be a developer in 2021 and since then I've been
-        continuously acquiring knowledge. I'm a Computer Science student at
-        <strong>ESTÁCIO</strong> in Rio de Janeiro.
-      </p>
-      <p>
-        I have 3 years of experience working with RESTful API development using
-        <strong>NestJS, TypeScript, JavaScript</strong>, and studying relational databases
-        such as <strong>MySQL</strong>.
-      </p>
-      <p>
-        My current goals include working as a Fullstack Developer, deepening my
-        knowledge in <strong>React</strong> applications, and studying
-        <strong>C++</strong> for personal development.
-      </p>
-    </td>
-    <td valign="top">
-      <picture>
-        <img
-          align="right"
-          src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
-          width="600px"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
+Hey! My name is Leonardo Santos, I’m 23 years old and currently living in Brazil 🇧🇷.
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantosBR&theme=dark&layout=compact"
-    width="310"
-  />
-</p>
+I discovered my passion for software development in 2021, and since then I’ve been continuously learning and improving my skills. I’m a Computer Science student at ESTÁCIO, based in Rio de Janeiro.
+I have 3 years of experience developing RESTful APIs, mainly using *NestJS*, *TypeScript*, and *JavaScript*, along with experience working with relational databases such as *MySQL*.
+
+I’m currently focused on strengthening my Full Stack skill set, actively working with *Spring Boot* on the backend to build robust and scalable APIs, while continuing to evolve my frontend knowledge with React.
+Additionally, I’m incorporating *C++* into my tech stack as a way to deepen my understanding of performance, memory management, and core computer science concepts, aiming to become a more well-rounded and technically solid developer.
+
 
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
@@ -57,7 +27,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=prisma,postgres,mysql&perline=3"
+      src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&perline=9"
     />
   </a>
 </p>
@@ -66,7 +36,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=aws,py&perline=14"
+      src="https://skillicons.dev/icons?i=aws,py,spring&perline=14"
     />
   </a>
 </p>
