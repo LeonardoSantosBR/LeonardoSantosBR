@@ -13,11 +13,20 @@ Additionally, I’m incorporating *C++* into my tech stack as a way to deepen my
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
 
-**`Languages ​​and technologies`**
+**`Languages`**
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=js,ts,cpp,java,git,docker,github,nodejs,react,tailwind&perline=14"
+      src="https://skillicons.dev/icons?i=js,ts,cpp,java&perline=14"
+    />
+  </a>
+</p>
+
+**`technologies`**
+<p>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=react,tailwind,nestjs,git,github,docker&perline=14"
     />
   </a>
 </p>
