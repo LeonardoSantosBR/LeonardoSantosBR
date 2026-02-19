@@ -2,11 +2,15 @@
 
 Hey! My name is Leonardo Santos, I’m 23 years old and currently living in Brazil 🇧🇷.
 
-I discovered my passion for software development in 2021, and since then I’ve been continuously learning and improving my skills. I’m a Computer Science student at ESTÁCIO, based in Rio de Janeiro.
+I discovered my passion for software development in 2021, and since then I’ve been continuously learning and improving my skills. I graduated from Estácio University with a degree in Computer Science, based in Rio de Janeiro.
 I have 3 years of experience developing RESTful APIs, mainly using *NestJS*, *TypeScript*, and *JavaScript*, along with experience working with relational databases such as *MySQL*.
 
 I’m currently focused on strengthening my Full Stack skill set, actively working with *Spring Boot* on the backend to build robust and scalable APIs, while continuing to evolve my frontend knowledge with React.
 Additionally, I’m incorporating *C++* into my tech stack as a way to deepen my understanding of performance, memory management, and core computer science concepts, aiming to become a more well-rounded and technically solid developer.
+
+<div align="center">
+  <img width="650" height="603" alt="Image" src="https://github.com/user-attachments/assets/bcf82b7a-9a06-4aea-aeaf-bf2e42c40114" />
+</div>
 
 
 <img
@@ -75,6 +79,7 @@ Additionally, I’m incorporating *C++* into my tech stack as a way to deepen my
   </a>
 </div>
 
+</br>
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"
