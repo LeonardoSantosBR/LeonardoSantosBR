@@ -9,7 +9,7 @@ I discovered my passion for software development in 2021, and since then I've be
     <td  align="center" valign="top">
       <strong>Languages</strong><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,cpp,java&perline=1" />
+        <img src="https://skillicons.dev/icons?i=js,ts,java&perline=1" />
       </a>
     </td>
     <td  align="center" valign="top">
