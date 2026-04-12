@@ -1,53 +1,35 @@
-## 👨‍💻 fullstack mobile junior developer
-Hey! My name is Leonardo Santos, I'm 23 years old and currently living in Brazil 🇧🇷.
-I discovered my passion for software development in 2021, and since then I've been continuously learning and improving my skills. I graduated from Estácio University with a degree in Computer Science, based in Rio de Janeiro.
-
+<h1 align="left"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+hey there <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+</h1>
+<h3 align="left">   About Me</h3>
 </br>
-
-<table>
-  <tr>
-    <td  align="center" valign="top">
-      <strong>Languages</strong><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,java&perline=1" />
-      </a>
-    </td>
-    <td  align="center" valign="top">
-      <strong>Technologies</strong><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,nestjs,git,github,docker&perline=1" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <strong>Databases and ORM</strong><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&perline=1" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <strong>Studying</strong><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,py,spring&perline=1" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <strong>Contact me</strong><br/><br/>
-      <a href="https://www.linkedin.com/in/leonardo-santos-71632521b/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
-      </a>
-      <br/><br/>
-      <a href="mailto:leosantosmelo07@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</br>
-
-**`Computer Science degree at Estácio de Sá`**
-<div>
-  <img width="650" height="603" alt="Image" src="https://github.com/user-attachments/assets/bcf82b7a-9a06-4aea-aeaf-bf2e42c40114" />
+<p align="left">Hi! My name is Leonardo Santos, I’m 23 years old and currently based in Brazil 🇧🇷. I discovered my passion for software development in 2021, and since then I’ve been continuously learning, growing, and refining my skills in the field. I hold a degree in Computer Science from Estácio University, where I built a strong foundation in technology and problem-solving.<br><br>- 🔭 I’m working as Front-end mobile junior<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I play video games</p>
+<h3 align="left">🛠 Language and tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="40" alt="react native logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="70" alt="tailwind css logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"  height="70" alt="nestjs logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"  height="70" alt="prisma logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height="50" alt="postgresql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="70" alt="mysql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  height="70" alt="mongodb logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" />
+<h3 align="left">🔥 Activity:</h3>
+
+<div align="left">
+</div>
