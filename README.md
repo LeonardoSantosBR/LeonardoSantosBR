@@ -29,5 +29,3 @@ hey there <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-<h3 align="left">🌎 Activity:</h3>
-<img src="https://raw.githubusercontent.com/LeonardoSantosBR/LeonardoSantosBR/output/snake.svg" alt="Snake animation" />
