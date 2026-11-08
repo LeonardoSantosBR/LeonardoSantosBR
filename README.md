@@ -1,20 +1,17 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hey+i+am+Leonardo+Santos+👋&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Computer+Science+·+Full+Stack+Developer&descAlignY=62&descColor=e0d4cc&animation=fadeIn&fontAlign=50" />
-</div>
+# Hi, I'm Leonardo Santos
 
-<br/>
+<img src="assets/coding.svg" width="320" align="right">
 
-<div align="center">
-  <a href="mailto:leosantosmelo07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/leonardo-santos-71632521b/?isSelfProfile=true&locale=en-US">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-</div>
+<a href="https://github.com/LeonardoSantosBR">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=2E9EF7&vCenter=true&width=500&lines=Undergraduate+in+Applied+Computing;Full+Stack+Developer;QA+Tester+and+Scrum+Master;AI+and+Computer+Vision+Enthusiast" alt="Typing SVG" />
+</a>
 
-<br/>
-<p align="left">currently based in Brazil 🇧🇷. I discovered my passion for software development in 2023, and since then I’ve been continuously learning, growing, and refining my skills in the field. I hold a degree in Computer Science from Estácio University, where I built a strong foundation in technology and problem-solving.<br><br>
+Computer Science graduate and Full-stack Developer, driven by curiosity and a hands-on approach to learning. I started my journey in software development on the back-end side, building APIs and learning how to structure reliable, maintainable systems. Over time, I expanded into front-end and mobile development, which gave me a broader view of how products are built from end to end.
+
+Today I enjoy working across the whole stack, from the user interface to business rules and data persistence, always focused on clean code and good engineering practices. I'm also actively studying AI and LLMs, and I like turning what I learn into real projects.
+
+<br clear="right">
+
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,java,spring,postgres,mysql,docker,aws" />
