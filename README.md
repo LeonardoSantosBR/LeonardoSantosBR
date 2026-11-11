@@ -29,13 +29,13 @@ Today I enjoy working across the whole stack, from the user interface to busines
 
 **Languages & Front-end**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs&perline=6" alt="Languages and front-end" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs&perline=6" alt="Languages and front-end" />
 
 **Back-end & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,prisma,postgres,mysql,mongodb&perline=7" alt="Back-end and databases" />
 
-**Mobile, DevOps & Cloud**
+**DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,terraform,git,github&perline=7" alt="Mobile, DevOps and cloud" />
 
