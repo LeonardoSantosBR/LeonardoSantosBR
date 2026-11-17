@@ -1,11 +1,7 @@
 ## 👋 About me
 
-<img src="assets/coding.svg" width="320" align="right">
-
 Computer Science graduate and Full-stack Developer, driven by curiosity and a hands-on approach to learning.
-
 I started my journey in software development on the **back-end**, building APIs and learning how to structure reliable, maintainable systems. Over time, I expanded into **front-end** and **mobile**, which gave me a broader view of how products are built from end to end.
-
 Today I enjoy working across the whole stack, from the user interface to business rules and data persistence, always focused on **clean code** and **good engineering practices**. I use **AI as a tool** to help me achieve both: reviewing and refactoring code, questioning design decisions and applying best practices, always supervising what it suggests.
 
 <br clear="right">
